@@ -6,7 +6,7 @@ Using Livedraw real-time interactive animation tools with Millumin, Quartz Compo
   * Quartz Composer
     * Login to: https://developer.apple.com/
     * Go to the download: https://developer.apple.com/downloads/index.action
-    * Search for "graphics"; download the latest "Graphics Tools for Xcode"; download. copy Quartz Composer into your Applications folder 
+    * Search for "graphics"; download and install the latest "Graphics Tools for Xcode" 
   * Plugins for Quartz Composer
     * Install [Sampler plugin for Quartz Composer](http://kriss.cx/tom/2015/07/sampler-3/)
     * Install [Syphon plugin for Quartz Composer](https://github.com/Syphon/Quartz-Composer/releases)
